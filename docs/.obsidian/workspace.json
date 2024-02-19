@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "ce44d055fa0bf571",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea24f9b851bd6245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0901f428f5fb4044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WLX/basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "059aadb0a54446e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Dynlink.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2da449415b07917b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SymbolsLinking.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4bab4194f62a5a89",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted Image 20240217105605_938.png"
+              }
+            }
+          },
+          {
+            "id": "9b3051b646ebf83a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted Image 20240217105605_938.png"
+              }
+            }
+          },
+          {
+            "id": "9f7b4249bc9b4438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WLX/dynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fa9e9e138f57573",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3558e58859eb36fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b9370f9ceae76c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3b6f071017fc51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5edf1b8da12c605",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd0253b82bb1a140",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f30ad0def52c7b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e9f1531066ce56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecead7dd3a792d3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WLX/basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e082522fd3a730f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WLX/basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31ae254928d25a9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c3fc13eb0a3fad7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WLX/basics.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9d3b6f071017fc51",
+  "lastOpenFiles": [
+    "Reference/WLX/WebUI.md",
+    "WLX/dynamics.md",
+    "WLX/interpeter.md",
+    "Excalidraw/Drawing 2024-02-19 17.41.51.excalidraw.md",
+    "Untitled.md",
+    "Carrots-ezgif.com-video-to-gif-converter.gif",
+    "Untitled",
+    "WLX/WebUI Library/intro.md",
+    "WLX/install.md",
+    "Event system/basics.md",
+    "WLX/examples/todolist.md",
+    "WLX/examples/asteroids.md",
+    "WLX/examples/app.md",
+    "WLX/examples/fileexplorer.md",
+    "Event system/promise.md",
+    "img/Carrots-ezgif.com-video-to-gif-converter.gif",
+    "img/Asteroids1-ezgif.com-optimize.gif",
+    "WLX/WebUI Framework/sidebar.md",
+    "Reference/Misc/Events.md",
+    "Reference/Misc/Async.md",
+    "Reference/Misc/Language.md",
+    "Reference/Misc/WLJSTransport.md",
+    "Reference/Misc/Promise.md",
+    "Event system",
+    "img/Pasted Image 20240217105605_938.png",
+    "WLX/components.md",
+    "WLX/scoping.md",
+    "WLX/basics.md",
+    "Excalidraw/Dynlink.excalidraw.md",
+    "img/Dynlink.excalidraw.svg",
+    "Excalidraw/SymbolsLinking.excalidraw.md",
+    "img/SymbolsLinking.excalidraw.svg",
+    "img/Mathematica_Logo.svg-2.png",
+    "Excalidraw",
+    "img/ScreenRecording2024-02-16at23.18.02-ezgif.com-optimize.gif",
+    "WLX/imgs/architecturep.excalidraw.md",
+    "WLX/imgs/working-with-frontend-object.excalidraw.md",
+    "img/ScreenRecording2024-02-16at20.59.22-ezgif.com-video-to-gif-converter.gif",
+    "img/ScreenRecording2024-02-16at09.59.30-ezgif.com-video-to-gif-converter.gif",
+    "Reference/Misc/Promise",
+    "Reference/WLX/Importer/Untitled",
+    "Reference/Misc/WLJS`Transport",
+    "Reference/Misc/Language",
+    "Reference/Misc/Async",
+    "Reference/Misc/Events",
+    "Reference/Misc"
+  ]
+}
