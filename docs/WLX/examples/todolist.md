@@ -9,7 +9,7 @@ An example of __dynamic multi-user application__ built using most features of [W
 
 There are two versions of this implementation
 
-## Approach 2
+## Approach 1
 To run this demo 
 
 ```bash
