@@ -72,6 +72,7 @@ Then a few more modifications (*code continues*)
 { /* highlight-start */ }
 WLJS`PM`Repositories[{
   Github -> "https://github.com/JerryI/wljs-interpreter" -> "dev",
+  Github -> "https://github.com/JerryI/wljs-sharedlib-d3" -> "master",
   Github -> "https://github.com/JerryI/wljs-graphics-d3" -> "dev"
 }]
 { /* highlight-end */ }

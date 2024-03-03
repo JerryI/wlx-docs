@@ -96,6 +96,7 @@ To have a basic GUI elements we use `wljs-inputs` (see [reference](https://jerry
 
 WLJS`PM`Repositories[{
   Github -> "https://github.com/JerryI/wljs-interpreter" -> "dev",
+  Github -> "https://github.com/JerryI/wljs-sharedlib-d3" -> "master",
   Github -> "https://github.com/JerryI/wljs-graphics-d3" -> "dev",
   { /* highlight-next-line */ }
   Github -> "https://github.com/JerryI/wljs-inputs" -> "dev"
