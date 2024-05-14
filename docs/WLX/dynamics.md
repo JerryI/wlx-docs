@@ -25,7 +25,7 @@ that will run the simplest example possible
 </details>
 
 ## Preparations
-We are going to use WebSockets protocol for the real-time communication. for that one need to set up a corresponding server [WebSocketHandler](https://github.com/KirillBelovTest/WebSocketHandler) written by Kirill Belov. Please see his repo for more details regarding this server. One need only to set an hostname and port for it and assign it __to a separate TCP server__.
+We are going to use WebSockets protocol for the real-time communication. for that one need to set up a corresponding server [WebSocketHandler](https://github.com/JerryI/WebSocketHandler) written by Kirill Belov. Please see his repo for more details regarding this server. One need only to set an hostname and port for it and assign it __to a separate TCP server__.
 
 Let us rewrite our wolfram script file
 
@@ -36,12 +36,12 @@ Lt7KLPp4ZPq3+qz0Iv6Yddcj3gGoDVPG"];
 
 PacletRepositories[{
   Github -> "https://github.com/KirillBelovTest/Objects",
-  Github -> "https://github.com/KirillBelovTest/Internal",
+  Github -> "https://github.com/JerryI/Internal",
   Github -> "https://github.com/JerryI/CSocketListener" -> "dev2024",
-  Github -> "https://github.com/KirillBelovTest/TCPServer",
-  Github -> "https://github.com/KirillBelovTest/HTTPHandler",
+  Github -> "https://github.com/JerryI/TCPServer",
+  Github -> "https://github.com/JerryI/HTTPHandler",
   { /* highlight-next-line */ }
-  Github -> "https://github.com/KirillBelovTest/WebSocketHandler",
+  Github -> "https://github.com/JerryI/WebSocketHandler",
   Github -> "https://github.com/JerryI/wl-wljs-packages",  
   { /* highlight-next-line */ }
   Github -> "https://github.com/JerryI/wl-misc" -> "dev"
