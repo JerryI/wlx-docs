@@ -160,8 +160,10 @@ WebUILazyLoad[content_, opts__] _String
 
 The following options should be provided
 - `"Event" -> _String` an identifier of object on a server
+- `"Tag" -> "div"`
+- `"Class" -> ""`
 
-*This component leaves an empty `div` container in the DOM tree, where it is placed*
+*This component leaves an empty `Tag` container in the DOM tree, where it is placed*
 
 ```jsx
 <WebUILazyLoad Event={"event"}>

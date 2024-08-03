@@ -15,6 +15,19 @@ Actual binding happens with only `"Id"` field, therefore a string equivalent is 
 _String
 ```
 
+To create an empty `EventObject` one can also use
+
+```mathematica
+ev = EventObject[]
+```
+
+which is equivalent to
+
+```mathematica
+ev = EventObject[<|"Id" -> CreateUUID[]|>]
+```
+
+
 ### `"Initial"`
 Stores initial data, which makes sense if an event object was produced by some sliders, toggle switches or other UI elements. 
 

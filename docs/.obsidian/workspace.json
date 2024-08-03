@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WLX/basics.md",
+                "file": "Reference/Misc/WLJSTransport.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WLX/basics.md",
+                "file": "Reference/Misc/WLJSTransport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WLX/basics.md",
+                "file": "Reference/Misc/WLJSTransport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WLX/basics.md"
+                "file": "Reference/Misc/WLJSTransport.md"
               }
             }
           }
@@ -209,10 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d3b6f071017fc51",
+  "active": "0901f428f5fb4044",
   "lastOpenFiles": [
+    "Reference/Misc/Events.md",
+    "Reference/Misc/Promise.md",
     "Reference/WLX/WebUI.md",
     "WLX/dynamics.md",
+    "Event system/promise.md",
+    "Event system/basics.md",
+    "WLX/basics.md",
     "WLX/interpeter.md",
     "Excalidraw/Drawing 2024-02-19 17.41.51.excalidraw.md",
     "Untitled.md",
@@ -220,25 +225,20 @@
     "Untitled",
     "WLX/WebUI Library/intro.md",
     "WLX/install.md",
-    "Event system/basics.md",
     "WLX/examples/todolist.md",
     "WLX/examples/asteroids.md",
     "WLX/examples/app.md",
     "WLX/examples/fileexplorer.md",
-    "Event system/promise.md",
     "img/Carrots-ezgif.com-video-to-gif-converter.gif",
     "img/Asteroids1-ezgif.com-optimize.gif",
     "WLX/WebUI Framework/sidebar.md",
-    "Reference/Misc/Events.md",
     "Reference/Misc/Async.md",
     "Reference/Misc/Language.md",
     "Reference/Misc/WLJSTransport.md",
-    "Reference/Misc/Promise.md",
     "Event system",
     "img/Pasted Image 20240217105605_938.png",
     "WLX/components.md",
     "WLX/scoping.md",
-    "WLX/basics.md",
     "Excalidraw/Dynlink.excalidraw.md",
     "img/Dynlink.excalidraw.svg",
     "Excalidraw/SymbolsLinking.excalidraw.md",
