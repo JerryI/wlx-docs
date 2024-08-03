@@ -13,19 +13,8 @@ In general, WLX is just a text-processor, everything else comes as an extensions
 <Tabs  
 defaultValue="lpm"  
 values={[  
-{label: 'Wolfram Paclet', value: 'wl'},  
 {label: 'LPM', value: 'lpm'},  
-]}>  
-<TabItem value="wl">
-
-```mathematica
-PacletInstall["JerryI/WLX"]
-
-<<JerryI`WLX`
-<<JerryI`WLX`Importer`
-```
-
-</TabItem>  
+]}>   
 <TabItem value="lpm">
 
 ```mathematica
